@@ -19,7 +19,7 @@ I'm an aspiring frontend developer with a passion for creating beautiful and fun
 💞️ I’m looking to collaborate on exciting projects where I can apply my skills and learn from other experienced developers. If you have an open-source project, a freelance gig, or a collaborative idea, let's connect!
 
 ## Contact Me
-📫 You can reach me via [Email](mailto:wodopeyc@gmail.com.com) | [LinkedIn](https://www.linkedin.com/in/your-profile/) | Find my work on [Portfolio](#) .
+📫 You can reach me via [Email](mailto:wodopeyc@gmail.com.com) | [LinkedIn](https://www.linkedin.com/in/collins-wodopey-5789c/) | Find my work on [Portfolio](#) .
 
 ## Fun Fact
 ⚡ Fun fact: I have a knack for transforming complex problems into simple, elegant solutions through code and design.
